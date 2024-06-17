@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack (MERN) and Flutter developer from India</h3>
 
 <p align="center">
-  <img src="https://wallpapers.com/images/featured/beach-eoxvk1itsaibfbo1.jpg" alt="Image from Google" width="150" height="150" />
+  <img src="https://wallpapers.com/images/featured/beach-eoxvk1itsaibfbo1.jpg" alt="Image from Google" width="600" height="300" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderrohan003&label=Profile%20views&color=0e75b6&style=flat" alt="coderrohan003" /> </p>
